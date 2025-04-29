@@ -1,3 +1,5 @@
+# NAME : MOHANRAJ.S
+# REG NO: 212224100036
 ### study-of-basic-gates
 
 **AIM:** 
